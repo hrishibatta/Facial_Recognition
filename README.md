@@ -2,4 +2,4 @@
 
 # Face_Detection
 
-![](example.png = 500x500)
+![](example.png | width = 400)
