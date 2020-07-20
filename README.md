@@ -3,3 +3,7 @@
 # Face_Detection
 
 <img src="example.png" height="509" width="643">
+
+This Python program uses OpenAI's Haarcascades to detect faces and used OpenAI's LBPH Face Recognizer to train a model to recognize faces. 
+
+The original data set is not included in this repository. 
