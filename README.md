@@ -9,10 +9,22 @@ This Python program uses OpenAI's Haarcascades to detect faces and used OpenAI's
 The original data set is not included in this repository. 
 
 
+## Running
 
+Open the directory using a terminal:
+```bash
+$ cd "path to folder"
+```
 
+Train the program: 
+```bash
+$ python faces-train.py
+```
 
-
+Run the Facial Recognition
+```bash
+$ python faces.py
+```
 
 
 
@@ -23,3 +35,5 @@ Installing the packages:
 ```bash
 $ pip install "packageName" --upgrade
 ```
+
+Make sure to link Image folder in faces-train.py to the image dataset. 
