@@ -2,4 +2,4 @@
 
 # Face_Detection
 
-![](example.png | width = 400)
+<img src="example.png" height="24" width="48">
