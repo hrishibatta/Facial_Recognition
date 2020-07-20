@@ -8,7 +8,15 @@ This Python program uses OpenAI's Haarcascades to detect faces and used OpenAI's
 
 The original data set is not included in this repository. 
 
-##Building
+
+
+
+
+
+
+
+
+## Building
 This program requires the following Python modules: cv2, os, pickle, pillow, numpy.
 
 Installing the packages: 
