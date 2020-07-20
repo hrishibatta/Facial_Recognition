@@ -2,4 +2,4 @@
 
 # Face_Detection
 
-<img src="example.png" height="500" width="400">
+<img src="example.png" height="643" width="509">
