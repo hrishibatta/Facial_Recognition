@@ -8,6 +8,7 @@ This Python program uses OpenAI's Haarcascades to detect faces and used OpenAI's
 
 The original data set is not included in this repository. 
 
+This project was one I enjoyed a lot because it was my introduction to machine learning. OpenCV was very intuitive and easy to use. It was with this project that I started to let go of my fear of Machine Learning and Artificial Intelligence. These topics, which seemed unobtainable and impossible to understand, become a little easier. 
 
 ## Running
 
